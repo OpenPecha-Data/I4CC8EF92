@@ -1,22 +1,24 @@
-id: opecha:P008088
+id: P008088
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG18488
   title: མན་ངག་རིན་པོ་ཆེའི་མཛོད་ཀྱི་སྐྱུད་བྱང་གདམས་ངག་ནོར་བུའི་གཏེར་མཛོད།
-  volume:
+  author: ''
+  volumes:
     37220e9283224db19abc4b09d35002c0:
       image_group_id: I1KG18502
       title: Volume 1 of man ngag rin po che'i mdzod kyi skyud byang gdams ngag nor
         bu'i gter mdzod/
       volume_number: 1
       total_pages: 516
+      base_file: v001.txt
     5b32d5fd9bb84c48b07718b148c275c0:
       image_group_id: I1KG18503
       title: Volume 2 of man ngag rin po che'i mdzod kyi skyud byang gdams ngag nor
         bu'i gter mdzod/
       volume_number: 2
       total_pages: 532
-  author: ''
+      base_file: v002.txt
 ebook_metadata:
   title: མན་ངག་རིན་པོ་ཆེའི་མཛོད་ཀྱི་སྐྱུད་བྱང་གདམས་ངག་ནོར་བུའི་གཏེར་མཛོད།
   author: ''
