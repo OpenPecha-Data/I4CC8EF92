@@ -5,20 +5,16 @@ source_metadata:
   title: མན་ངག་རིན་པོ་ཆེའི་མཛོད་ཀྱི་སྐྱུད་བྱང་གདམས་ངག་ནོར་བུའི་གཏེར་མཛོད།
   author: ''
   volumes:
-    37220e9283224db19abc4b09d35002c0:
+    8f5df5a454f74310851f420fd1e617e9:
       image_group_id: I1KG18502
-      title: Volume 1 of man ngag rin po che'i mdzod kyi skyud byang gdams ngag nor
-        bu'i gter mdzod/
+      title: ''
       volume_number: 1
       total_pages: 516
-      base_file: v001.txt
-    5b32d5fd9bb84c48b07718b148c275c0:
+    8e94fea33d7a4808a38b0a4605f5b49d:
       image_group_id: I1KG18503
-      title: Volume 2 of man ngag rin po che'i mdzod kyi skyud byang gdams ngag nor
-        bu'i gter mdzod/
+      title: ''
       volume_number: 2
       total_pages: 532
-      base_file: v002.txt
 ebook_metadata:
   title: མན་ངག་རིན་པོ་ཆེའི་མཛོད་ཀྱི་སྐྱུད་བྱང་གདམས་ངག་ནོར་བུའི་གཏེར་མཛོད།
   author: ''
